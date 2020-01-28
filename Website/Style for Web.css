@@ -1,0 +1,27 @@
+body {
+	background-image: url("webbackground.png")
+}
+button {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+h1 {
+	margin-left:auto;
+	color:white;
+	margin-right:auto;
+	font-family: monospace;
+	font-size:20px;
+	width:75%;
+}
+var {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
